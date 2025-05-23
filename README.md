@@ -16,7 +16,7 @@ La clínica ECI Salud Vital necesita una aplicación web simple para gestionar c
 
 ## Creacion del proyecto
 Para la creacion del proyecto se utilizo el programa por Spring Boot inicilr y al ponerle nombre se descargo y se abrio en el IntelliJ y queda de esta manera
-![image]()
+![image](https://github.com/CamiloFdez/ParcialCVDS3CorteBackend/blob/main/assets/Inicial.png)
 
 ## Diagramas 
 Para los diagramas que se mistraran a lo largo del proyecto se realizaron por medio de la app Draw.io y estos quedan de esta manera:
